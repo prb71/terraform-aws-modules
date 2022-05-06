@@ -1,0 +1,3 @@
+[submodule "terraform-aws-pavan"]
+	path = terraform-aws-pavan
+	url = https://github.com/prb71/terraform-aws-pavan.git
